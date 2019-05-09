@@ -1,0 +1,14 @@
+.btn.btn-outline-primary.btn-sm1 a {
+  text-decoration: none;
+}
+
+.btn.btn-outline-primary.btn-sm1 a:hover {
+  color: white;
+}
+
+.btn.btn-outline-primary.btn-sm1 {
+  width: 96.8625px;
+  height: 30.8px;
+  font-size: 13px;
+}
+
